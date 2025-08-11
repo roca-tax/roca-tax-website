@@ -1,0 +1,212 @@
+{{ define "main" }}
+<!-- Hero Section -->
+<section class="hero-section bg-gradient-primary text-white py-5">
+    <div class="container">
+        <div class="row align-items-center min-vh-100">
+            <div class="col-lg-6">
+                {{ if eq .Site.Language.Lang "es" }}
+                    <h1 class="display-4 fw-bold mb-4">
+                        Servicios Profesionales de Preparación de Impuestos y Contabilidad
+                    </h1>
+                    <p class="lead mb-4">
+                        Servicios expertos de preparación de impuestos y contabilidad en Rochester, NY. 
+                        Ayudamos a individuos y negocios a navegar situaciones fiscales complejas con confianza.
+                    </p>
+                    <div class="d-flex gap-3">
+                        <a href="/es/contact/" class="btn btn-light btn-lg px-4">
+                            <i class="fas fa-phone me-2"></i>Comenzar
+                        </a>
+                        <a href="/es/services/" class="btn btn-outline-light btn-lg px-4">
+                            <i class="fas fa-info-circle me-2"></i>Más Información
+                        </a>
+                    </div>
+                {{ else }}
+                    <h1 class="display-4 fw-bold mb-4">
+                        Professional Tax Preparation & Accounting Services
+                    </h1>
+                    <p class="lead mb-4">
+                        Expert tax preparation and accounting services in Rochester, NY. 
+                        We help individuals and businesses navigate complex tax situations with confidence.
+                    </p>
+                    <div class="d-flex gap-3">
+                        <a href="/contact/" class="btn btn-light btn-lg px-4">
+                            <i class="fas fa-phone me-2"></i>Get Started
+                        </a>
+                        <a href="/services/" class="btn btn-outline-light btn-lg px-4">
+                            <i class="fas fa-info-circle me-2"></i>Learn More
+                        </a>
+                    </div>
+                {{ end }}
+            </div>
+            <div class="col-lg-6 text-center">
+                <div class="hero-image">
+                    <i class="fas fa-calculator display-1 text-light opacity-75"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Services Overview -->
+<section class="services-section py-5">
+    <div class="container">
+        <div class="row text-center mb-5">
+            <div class="col-lg-8 mx-auto">
+                {{ if eq .Site.Language.Lang "es" }}
+                    <h2 class="display-5 fw-bold text-primary mb-3">Nuestros Servicios</h2>
+                    <p class="lead text-muted">Soluciones integrales de impuestos y contabilidad para individuos y negocios</p>
+                {{ else }}
+                    <h2 class="display-5 fw-bold text-primary mb-3">Our Services</h2>
+                    <p class="lead text-muted">Comprehensive tax and accounting solutions for individuals and businesses</p>
+                {{ end }}
+            </div>
+        </div>
+        
+        <div class="row g-4">
+            {{ if eq .Site.Language.Lang "es" }}
+                {{ range .Site.Params.services_es }}
+                <div class="col-md-6 col-lg-4">
+                    <div class="service-card h-100 p-4 bg-white rounded shadow-sm border-0">
+                        <div class="text-center mb-3">
+                            <i class="fas fa-file-invoice-dollar text-primary fa-3x"></i>
+                        </div>
+                        <h5 class="text-center mb-3">{{ . }}</h5>
+                        <p class="text-muted text-center">
+                            Servicio profesional y confiable con atención al detalle
+                        </p>
+                    </div>
+                </div>
+                {{ end }}
+            {{ else }}
+                {{ range .Site.Params.services }}
+                <div class="col-md-6 col-lg-4">
+                    <div class="service-card h-100 p-4 bg-white rounded shadow-sm border-0">
+                        <div class="text-center mb-3">
+                            <i class="fas fa-file-invoice-dollar text-primary fa-3x"></i>
+                        </div>
+                        <h5 class="text-center mb-3">{{ . }}</h5>
+                        <p class="text-muted text-center">
+                            Professional and reliable service with attention to detail
+                        </p>
+                    </div>
+                </div>
+                {{ end }}
+            {{ end }}
+        </div>
+        
+        <div class="text-center mt-5">
+            {{ if eq .Site.Language.Lang "es" }}
+                <a href="/es/services/" class="btn btn-primary btn-lg px-5">
+                    Ver Todos los Servicios
+                </a>
+            {{ else }}
+                <a href="/services/" class="btn btn-primary btn-lg px-5">
+                    View All Services
+                </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- Why Choose Us -->
+<section class="why-choose-us bg-light py-5">
+    <div class="container">
+        <div class="row text-center mb-5">
+            <div class="col-lg-8 mx-auto">
+                {{ if eq .Site.Language.Lang "es" }}
+                    <h2 class="display-5 fw-bold text-primary mb-3">¿Por Qué Elegir Roca Tax?</h2>
+                    <p class="lead text-muted">Experiencia confiable, servicio bilingüe y atención personalizada</p>
+                {{ else }}
+                    <h2 class="display-5 fw-bold text-primary mb-3">Why Choose Roca Tax?</h2>
+                    <p class="lead text-muted">Trusted expertise, bilingual service, and personalized attention</p>
+                {{ end }}
+            </div>
+        </div>
+        
+        <div class="row g-4">
+            <div class="col-md-6 col-lg-3">
+                <div class="text-center">
+                    <div class="feature-icon mb-3">
+                        <i class="fas fa-shield-alt text-primary fa-3x"></i>
+                    </div>
+                    {{ if eq .Site.Language.Lang "es" }}
+                        <h5>Experiencia Confiable</h5>
+                        <p class="text-muted">Años de experiencia en preparación de impuestos y contabilidad</p>
+                    {{ else }}
+                        <h5>Trusted Expertise</h5>
+                        <p class="text-muted">Years of experience in tax preparation and accounting</p>
+                    {{ end }}
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-3">
+                <div class="text-center">
+                    <div class="feature-icon mb-3">
+                        <i class="fas fa-language text-primary fa-3x"></i>
+                    </div>
+                    {{ if eq .Site.Language.Lang "es" }}
+                        <h5>Servicio Bilingüe</h5>
+                        <p class="text-muted">Servicio profesional en inglés y español</p>
+                    {{ else }}
+                        <h5>Bilingual Service</h5>
+                        <p class="text-muted">Professional service in English and Spanish</p>
+                    {{ end }}
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-3">
+                <div class="text-center">
+                    <div class="feature-icon mb-3">
+                        <i class="fas fa-users text-primary fa-3x"></i>
+                    </div>
+                    {{ if eq .Site.Language.Lang "es" }}
+                        <h5>Atención Personal</h5>
+                        <p class="text-muted">Apoyo dedicado para cada cliente</p>
+                    {{ else }}
+                        <h5>Personal Attention</h5>
+                        <p class="text-muted">Dedicated support for every client</p>
+                    {{ end }}
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-3">
+                <div class="text-center">
+                    <div class="feature-icon mb-3">
+                        <i class="fas fa-clock text-primary fa-3x"></i>
+                    </div>
+                    {{ if eq .Site.Language.Lang "es" }}
+                        <h5>Servicio Oportuno</h5>
+                        <p class="text-muted">Tiempos de respuesta rápidos y cumplimiento de plazos</p>
+                    {{ else }}
+                        <h5>Timely Service</h5>
+                        <p class="text-muted">Fast turnaround times and meeting deadlines</p>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CTA Section -->
+<section class="cta-section bg-primary text-white py-5">
+    <div class="container text-center">
+        {{ if eq .Site.Language.Lang "es" }}
+            <h2 class="display-5 fw-bold mb-4">¿Listo para Comenzar?</h2>
+            <p class="lead mb-4">
+                Contáctenos hoy para una consulta y permítanos ayudarle con sus necesidades fiscales y contables.
+            </p>
+            <a href="/es/contact/" class="btn btn-light btn-lg px-5">
+                <i class="fas fa-phone me-2"></i>Contáctenos Hoy
+            </a>
+        {{ else }}
+            <h2 class="display-5 fw-bold mb-4">Ready to Get Started?</h2>
+            <p class="lead mb-4">
+                Contact us today for a consultation and let us help you with your tax and accounting needs.
+            </p>
+            <a href="/contact/" class="btn btn-light btn-lg px-5">
+                <i class="fas fa-phone me-2"></i>Contact Us Today
+            </a>
+        {{ end }}
+    </div>
+</section>
+{{ end }}

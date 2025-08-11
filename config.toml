@@ -1,0 +1,97 @@
+baseURL = 'https://roca.tax/'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+languageCode = 'en-us'
+title = 'Roca Tax - Professional Tax Preparation Services'
+theme = 'roca-tax-theme'
+
+[params]
+  description = "Professional tax preparation and accounting services in Rochester, NY. Servicios profesionales de preparación de impuestos y contabilidad en Rochester, NY."
+  company_name = "Roca Tax"
+  company_tagline = "Professional Tax Preparation & Accounting Services"
+  company_tagline_es = "Servicios Profesionales de Preparación de Impuestos y Contabilidad"
+  address = "Rochester, NY"
+  phone = "+1 585-207-2221"
+  email = "info@roca.tax"
+  
+  # Social media
+  facebook = ""
+  linkedin = ""
+  
+  # Business hours
+  business_hours = "Monday - Friday: 9:00 AM - 6:00 PM"
+  business_hours_es = "Lunes - Viernes: 9:00 AM - 6:00 PM"
+  
+  # Services
+  services = [
+    "Individual Tax Preparation",
+    "Business Tax Preparation", 
+    "Tax Planning & Consulting",
+    "Bookkeeping Services",
+    "Financial Statement Preparation",
+    "IRS Problem Resolution"
+  ]
+  
+  services_es = [
+    "Preparación de Impuestos Individuales",
+    "Preparación de Impuestos de Negocios",
+    "Planificación y Consultoría Fiscal",
+    "Servicios de Contabilidad",
+    "Preparación de Estados Financieros",
+    "Resolución de Problemas con el IRS"
+  ]
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    title = "Roca Tax - Professional Tax Preparation Services"
+    contentDir = "content"
+    
+    [[languages.en.menu]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+    [[languages.en.menu]]
+      identifier = "services"
+      name = "Services"
+      url = "/services/"
+      weight = 2
+    [[languages.en.menu]]
+      identifier = "about"
+      name = "About Us"
+      url = "/about/"
+      weight = 3
+    [[languages.en.menu]]
+      identifier = "contact"
+      name = "Contact"
+      url = "/contact/"
+      weight = 4
+    
+  [languages.es]
+    languageName = "Español"
+    weight = 2
+    title = "Roca Tax - Servicios Profesionales de Preparación de Impuestos"
+    contentDir = "content/es"
+    
+    [[languages.es.menu]]
+      identifier = "home"
+      name = "Inicio"
+      url = "/es/"
+      weight = 1
+    [[languages.es.menu]]
+      identifier = "services"
+      name = "Servicios"
+      url = "/es/services/"
+      weight = 2
+    [[languages.es.menu]]
+      identifier = "about"
+      name = "Sobre Nosotros"
+      url = "/es/about/"
+      weight = 3
+    [[languages.es.menu]]
+      identifier = "contact"
+      name = "Contacto"
+      url = "/es/contact/"
+      weight = 4

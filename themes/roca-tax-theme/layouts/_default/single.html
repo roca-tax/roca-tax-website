@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="page-header bg-light py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-center">
+                <h1 class="display-4 fw-bold text-primary mb-3">{{ .Title }}</h1>
+                {{ if .Description }}
+                <p class="lead text-muted">{{ .Description }}</p>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="page-content py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 mx-auto">
+                <div class="content-wrapper">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
