@@ -5,17 +5,17 @@ name = "Roca Tax Theme"
 license = "MIT"
 licenselink = "https://github.com/your-username/roca-tax-theme/blob/master/LICENSE"
 description = "A professional business theme for tax preparation and accounting services, with bilingual support and modern design."
-homepage = "https://rocatax.com/"
+homepage = "https://roca.tax/"
 tags = ["business", "tax", "accounting", "professional", "bilingual", "responsive"]
 features = ["responsive", "bilingual", "business", "modern"]
 min_version = "0.80.0"
 
 [author]
   name = "Roca Tax"
-  homepage = "https://rocatax.com/"
+  homepage = "https://roca.tax/"
 
 # If porting an existing theme
 [original]
   name = "Roca Tax Theme"
-  homepage = "https://rocatax.com/"
+  homepage = "https://roca.tax/"
   repo = "https://github.com/your-username/roca-tax-theme"

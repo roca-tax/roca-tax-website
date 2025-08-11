@@ -224,8 +224,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For support or questions about the website:
-- Email: info@rocatax.com
-- Phone: (585) XXX-XXXX
+- Email: info@roca.tax
+- Phone: (585) 207-2221
 
 ## Roadmap
 
@@ -242,4 +242,4 @@ For support or questions about the website:
 ---
 
 **Roca Tax** - Professional Tax Preparation & Accounting Services  
-Rochester, NY | (585) XXX-XXXX | info@rocatax.com 
+Rochester, NY | (585) XXX-XXXX | info@roca.tax 
