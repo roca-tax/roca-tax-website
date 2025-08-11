@@ -157,6 +157,67 @@ h1, h2, h3, h4, h5, h6 {
                 url('https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80') center/cover no-repeat;
 }
 
+.hero-section.blog-hero {
+    background: linear-gradient(135deg, rgba(44, 62, 80, 0.85) 0%, rgba(52, 152, 219, 0.85) 100%), 
+                url('https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80') center/cover no-repeat;
+}
+
+/* Blog Section */
+.blog-post-card {
+    transition: all 0.3s ease;
+    border: 1px solid var(--border-color);
+    border-radius: 1rem;
+    background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+    position: relative;
+    overflow: hidden;
+}
+
+.blog-post-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+.blog-post-card h2 a:hover {
+    color: var(--primary-color) !important;
+}
+
+.blog-content {
+    line-height: 1.8;
+}
+
+.blog-content h2, .blog-content h3, .blog-content h4 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: var(--dark-color);
+}
+
+.blog-content p {
+    margin-bottom: 1.5rem;
+}
+
+.blog-content ul, .blog-content ol {
+    margin-bottom: 1.5rem;
+    padding-left: 2rem;
+}
+
+.blog-content li {
+    margin-bottom: 0.5rem;
+}
+
+.blog-content strong {
+    color: var(--dark-color);
+    font-weight: 600;
+}
+
+.blog-content hr {
+    border-color: var(--border-color);
+    margin: 2rem 0;
+}
+
+.blog-navigation .btn {
+    min-width: 120px;
+}
+
 /* Services Section */
 /* Enhanced Service Cards */
 .service-card {

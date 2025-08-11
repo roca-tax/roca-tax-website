@@ -1,0 +1,98 @@
+{{ define "main" }}
+<section class="hero-section blog-hero">
+    <div class="container">
+        <div class="row align-items-center min-vh-75">
+            <div class="col-lg-8 mx-auto text-center">
+                <h1 class="display-4 fw-bold text-white mb-4 slide-up">
+                    {{ if eq .Site.Language.Lang "es" }}
+                        Blog de Roca Tax
+                    {{ else }}
+                        Roca Tax Blog
+                    {{ end }}
+                </h1>
+                <p class="lead text-white mb-5 slide-up" style="animation-delay: 0.1s;">
+                    {{ if eq .Site.Language.Lang "es" }}
+                        Consejos fiscales, noticias y guías para ayudarte a navegar el mundo de los impuestos
+                    {{ else }}
+                        Tax tips, news, and guides to help you navigate the world of taxes
+                    {{ end }}
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-5">
+    <div class="container">
+        <div class="row">
+            {{ range .Pages.ByDate.Reverse }}
+            <div class="col-lg-8 mx-auto mb-5">
+                <article class="blog-post-card bg-white rounded shadow-sm p-4 h-100">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="mb-3">
+                                <span class="badge bg-primary me-2">{{ .Date.Format "Jan 2, 2006" }}</span>
+                                {{ range .Params.categories }}
+                                <span class="badge bg-secondary me-2">{{ . }}</span>
+                                {{ end }}
+                            </div>
+                            <h2 class="h3 mb-3">
+                                <a href="{{ .RelPermalink }}" class="text-decoration-none text-dark">
+                                    {{ .Title }}
+                                </a>
+                            </h2>
+                            <p class="text-muted mb-3">{{ .Description }}</p>
+                            <div class="d-flex align-items-center mb-3">
+                                <small class="text-muted">
+                                    {{ if eq $.Site.Language.Lang "es" }}
+                                        Por {{ .Params.author }}
+                                    {{ else }}
+                                        By {{ .Params.author }}
+                                    {{ end }}
+                                </small>
+                            </div>
+                            <a href="{{ .RelPermalink }}" class="btn btn-outline-primary btn-sm">
+                                {{ if eq $.Site.Language.Lang "es" }}
+                                    Leer Más
+                                {{ else }}
+                                    Read More
+                                {{ end }}
+                            </a>
+                        </div>
+                        <div class="col-md-4 d-flex align-items-center justify-content-center">
+                            <div class="blog-icon text-center">
+                                <i class="fas fa-newspaper text-primary fa-3x opacity-75"></i>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
+            {{ end }}
+        </div>
+        
+        {{ if not .Pages }}
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-center">
+                <div class="py-5">
+                    <i class="fas fa-newspaper text-muted fa-4x mb-4"></i>
+                    <h3 class="text-muted">
+                        {{ if eq .Site.Language.Lang "es" }}
+                            No hay entradas del blog aún
+                        {{ else }}
+                            No blog posts yet
+                        {{ end }}
+                    </h3>
+                    <p class="text-muted">
+                        {{ if eq .Site.Language.Lang "es" }}
+                            Estamos trabajando en contenido valioso para ti. ¡Vuelve pronto!
+                        {{ else }}
+                            We're working on valuable content for you. Check back soon!
+                        {{ end }}
+                    </p>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }} 

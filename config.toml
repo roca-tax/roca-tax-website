@@ -70,6 +70,11 @@ theme = 'roca-tax-theme'
       name = "Contact"
       url = "/en/contact/"
       weight = 4
+    [[languages.en.menu]]
+      identifier = "blog"
+      name = "Blog"
+      url = "/en/blog/"
+      weight = 5
     
   [languages.es]
     languageName = "Español"
@@ -97,5 +102,10 @@ theme = 'roca-tax-theme'
       name = "Contacto"
       url = "/es/contact/"
       weight = 4
+    [[languages.es.menu]]
+      identifier = "blog"
+      name = "Blog"
+      url = "/es/blog/"
+      weight = 5
 
 
