@@ -1,11 +1,15 @@
 {{ define "main" }}
-<div class="page-header bg-light py-5">
+{{ $pageType := "" }}
+{{ if eq .Section "about" }}{{ $pageType = "about-hero" }}{{ end }}
+{{ if eq .Section "contact" }}{{ $pageType = "contact-hero" }}{{ end }}
+
+<div class="page-header hero-section {{ $pageType }} text-white py-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 mx-auto text-center">
-                <h1 class="display-4 fw-bold text-primary mb-3">{{ .Title }}</h1>
+                <h1 class="display-4 fw-bold mb-3">{{ .Title }}</h1>
                 {{ if .Description }}
-                <p class="lead text-muted">{{ .Description }}</p>
+                <p class="lead">{{ .Description }}</p>
                 {{ end }}
             </div>
         </div>

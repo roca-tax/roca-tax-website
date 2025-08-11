@@ -3,7 +3,7 @@
 <section class="hero-section bg-gradient-primary text-white py-5">
     <div class="container">
         <div class="row align-items-center min-vh-100">
-            <div class="col-lg-6">
+            <div class="col-lg-6 fade-in">
                 {{ if eq .Site.Language.Lang "es" }}
                     <h1 class="display-4 fw-bold mb-4">
                         Servicios Profesionales de Preparación de Impuestos y Contabilidad
@@ -29,16 +29,16 @@
                         We help individuals and businesses navigate complex tax situations with confidence.
                     </p>
                     <div class="d-flex gap-3">
-                        <a href="/contact/" class="btn btn-light btn-lg px-4">
+                        <a href="{{ if eq .Site.Language.Lang "es" }}/es/contact/{{ else }}/en/contact/{{ end }}" class="btn btn-light btn-lg px-4">
                             <i class="fas fa-phone me-2"></i>Get Started
                         </a>
-                        <a href="/services/" class="btn btn-outline-light btn-lg px-4">
+                        <a href="{{ if eq .Site.Language.Lang "es" }}/es/services/{{ else }}/en/services/{{ end }}" class="btn btn-outline-light btn-lg px-4">
                             <i class="fas fa-info-circle me-2"></i>Learn More
                         </a>
                     </div>
                 {{ end }}
             </div>
-            <div class="col-lg-6 text-center">
+            <div class="col-lg-6 text-center slide-up">
                 <div class="hero-image">
                     <i class="fas fa-calculator display-1 text-light opacity-75"></i>
                 </div>
@@ -51,7 +51,7 @@
 <section class="services-section py-5">
     <div class="container">
         <div class="row text-center mb-5">
-            <div class="col-lg-8 mx-auto">
+            <div class="col-lg-8 mx-auto fade-in">
                 {{ if eq .Site.Language.Lang "es" }}
                     <h2 class="display-5 fw-bold text-primary mb-3">Nuestros Servicios</h2>
                     <p class="lead text-muted">Soluciones integrales de impuestos y contabilidad para individuos y negocios</p>
@@ -64,13 +64,13 @@
         
         <div class="row g-4">
             {{ if eq .Site.Language.Lang "es" }}
-                {{ range .Site.Params.services_es }}
-                <div class="col-md-6 col-lg-4">
+                {{ range $index, $service := .Site.Params.services_es }}
+                <div class="col-md-6 col-lg-4 scale-in" style="animation-delay: {{ mul $index 0.1 }}s;">
                     <div class="service-card h-100 p-4 bg-white rounded shadow-sm border-0">
                         <div class="text-center mb-3">
                             <i class="fas fa-file-invoice-dollar text-primary fa-3x"></i>
                         </div>
-                        <h5 class="text-center mb-3">{{ . }}</h5>
+                        <h5 class="text-center mb-3">{{ $service }}</h5>
                         <p class="text-muted text-center">
                             Servicio profesional y confiable con atención al detalle
                         </p>
@@ -78,13 +78,13 @@
                 </div>
                 {{ end }}
             {{ else }}
-                {{ range .Site.Params.services }}
-                <div class="col-md-6 col-lg-4">
+                {{ range $index, $service := .Site.Params.services }}
+                <div class="col-md-6 col-lg-4 scale-in" style="animation-delay: {{ mul $index 0.1 }}s;">
                     <div class="service-card h-100 p-4 bg-white rounded shadow-sm border-0">
                         <div class="text-center mb-3">
                             <i class="fas fa-file-invoice-dollar text-primary fa-3x"></i>
                         </div>
-                        <h5 class="text-center mb-3">{{ . }}</h5>
+                        <h5 class="text-center mb-3">{{ $service }}</h5>
                         <p class="text-muted text-center">
                             Professional and reliable service with attention to detail
                         </p>
@@ -94,13 +94,13 @@
             {{ end }}
         </div>
         
-        <div class="text-center mt-5">
+        <div class="text-center mt-5 fade-in">
             {{ if eq .Site.Language.Lang "es" }}
                 <a href="/es/services/" class="btn btn-primary btn-lg px-5">
                     Ver Todos los Servicios
                 </a>
             {{ else }}
-                <a href="/services/" class="btn btn-primary btn-lg px-5">
+                <a href="/en/services/" class="btn btn-primary btn-lg px-5">
                     View All Services
                 </a>
             {{ end }}
@@ -112,7 +112,7 @@
 <section class="why-choose-us bg-light py-5">
     <div class="container">
         <div class="row text-center mb-5">
-            <div class="col-lg-8 mx-auto">
+            <div class="col-lg-8 mx-auto fade-in">
                 {{ if eq .Site.Language.Lang "es" }}
                     <h2 class="display-5 fw-bold text-primary mb-3">¿Por Qué Elegir Roca Tax?</h2>
                     <p class="lead text-muted">Experiencia confiable, servicio bilingüe y atención personalizada</p>
@@ -124,7 +124,7 @@
         </div>
         
         <div class="row g-4">
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-3 scale-in" style="animation-delay: 0.1s;">
                 <div class="text-center">
                     <div class="feature-icon mb-3">
                         <i class="fas fa-shield-alt text-primary fa-3x"></i>
@@ -139,7 +139,7 @@
                 </div>
             </div>
             
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-3 scale-in" style="animation-delay: 0.2s;">
                 <div class="text-center">
                     <div class="feature-icon mb-3">
                         <i class="fas fa-language text-primary fa-3x"></i>
@@ -154,7 +154,7 @@
                 </div>
             </div>
             
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-3 scale-in" style="animation-delay: 0.3s;">
                 <div class="text-center">
                     <div class="feature-icon mb-3">
                         <i class="fas fa-users text-primary fa-3x"></i>
@@ -169,7 +169,7 @@
                 </div>
             </div>
             
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-3 scale-in" style="animation-delay: 0.4s;">
                 <div class="text-center">
                     <div class="feature-icon mb-3">
                         <i class="fas fa-clock text-primary fa-3x"></i>
@@ -189,7 +189,7 @@
 
 <!-- CTA Section -->
 <section class="cta-section bg-primary text-white py-5">
-    <div class="container text-center">
+    <div class="container text-center fade-in">
         {{ if eq .Site.Language.Lang "es" }}
             <h2 class="display-5 fw-bold mb-4">¿Listo para Comenzar?</h2>
             <p class="lead mb-4">

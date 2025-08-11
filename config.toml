@@ -13,6 +13,8 @@ theme = 'roca-tax-theme'
   address = "Rochester, NY"
   phone = "+1 585-207-2221"
   email = "info@roca.tax"
+
+
   
   # Social media
   facebook = ""
@@ -51,22 +53,22 @@ theme = 'roca-tax-theme'
     [[languages.en.menu]]
       identifier = "home"
       name = "Home"
-      url = "/"
+      url = "/en/"
       weight = 1
     [[languages.en.menu]]
       identifier = "services"
       name = "Services"
-      url = "/services/"
+      url = "/en/services/"
       weight = 2
     [[languages.en.menu]]
       identifier = "about"
       name = "About Us"
-      url = "/about/"
+      url = "/en/about/"
       weight = 3
     [[languages.en.menu]]
       identifier = "contact"
       name = "Contact"
-      url = "/contact/"
+      url = "/en/contact/"
       weight = 4
     
   [languages.es]
@@ -95,3 +97,5 @@ theme = 'roca-tax-theme'
       name = "Contacto"
       url = "/es/contact/"
       weight = 4
+
+

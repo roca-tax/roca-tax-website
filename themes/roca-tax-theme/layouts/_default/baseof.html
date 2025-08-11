@@ -33,12 +33,32 @@
 
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    {{ range .Site.Menus.main }}
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ .URL }}">
-                            {{ .Name }}
-                        </a>
-                    </li>
+                    {{ if eq .Site.Language.Lang "es" }}
+                        <li class="nav-item">
+                            <a class="nav-link" href="/es/">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/es/services/">Servicios</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/es/about/">Sobre Nosotros</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/es/contact/">Contacto</a>
+                        </li>
+                    {{ else }}
+                        <li class="nav-item">
+                            <a class="nav-link" href="/en/">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/en/services/">Services</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/en/about/">About Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/en/contact/">Contact</a>
+                        </li>
                     {{ end }}
                 </ul>
 
