@@ -23,7 +23,6 @@ At Roca Tax, our mission is to provide exceptional tax preparation and accountin
 - **Provide Education**: Help clients understand their tax situation and available options
 - **Build Trust**: Establish long-term relationships based on reliability and transparency
 - **Serve Our Community**: Contribute to the economic success of Rochester and surrounding areas
-- **Embrace Diversity**: Provide bilingual service to serve our diverse community
 
 ---
 
