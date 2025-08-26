@@ -9,15 +9,15 @@ draft: false
 
 ## Our Story
 
-Founded in Rochester, NY, Roca Tax has been serving the local community with professional tax preparation and accounting services for over a decade. We started with a simple mission: to provide reliable, accurate, and personalized tax services that our clients could trust.
+Founded in Rochester, NY, Roca Tax has a simple mission: to provide reliable, accurate, and personalized tax services that our clients can trust.
 
-What began as a small tax preparation office has grown into a comprehensive accounting firm, but our commitment to personal service and attention to detail has never wavered. We believe that every client deserves the same level of care and expertise, regardless of the complexity or difficulty of their tax situation.
+We are commited to personal service and believe that every client deserves the same level of care and expertise, regardless of the complexity or difficulty of their tax situation.
 
 ---
 
 ## Our Mission
 
-At Roca Tax, our mission is to provide exceptional tax preparation and accounting services that empower our clients to make informed financial decisions. We strive to:
+At Roca Tax, our mission is to provide exceptional tax preparation and accounting services that gives our client the peace of mind that they are compliant with regulations. We also empower our clients to make informed financial decisions. We strive to:
 
 - **Deliver Accuracy**: Ensure every return is prepared with precision and attention to detail
 - **Provide Education**: Help clients understand their tax situation and available options
@@ -48,13 +48,13 @@ We believe professional tax services should be accessible to everyone, which is 
 ## Our Team
 
 ### Experienced Professionals
-Our team consists of licensed tax professionals with extensive experience in individual and business tax preparation. We stay current with continuing education requirements and regularly attend seminars and training sessions to maintain our expertise.
+Our team consists of licensed tax professionals that stay current with continuing education requirements and regularly attend seminars and training sessions to maintain expertise.
 
 ### Bilingual Expertise
 Understanding the importance of clear communication, our team provides professional service in both English and Spanish. This ensures that all clients receive the same high-quality service regardless of their preferred language.
 
 ### Local Knowledge
-As Rochester natives, we understand the local business environment, tax requirements, and economic landscape. This local expertise allows us to provide relevant advice and solutions for our community.
+We understand the local business environment, tax requirements, and economic landscape. This local expertise allows us to provide relevant advice and solutions for our community.
 
 ---
 
@@ -88,9 +88,7 @@ We support local charities and non-profit organizations that make Rochester a be
 Our team maintains active memberships in professional organizations and stays current with industry best practices:
 
 - **Tax Preparation Certifications**: Licensed tax preparers with ongoing education
-- **Professional Development**: Regular attendance at industry conferences and seminars
 - **Ethical Standards**: Adherence to professional codes of conduct and ethics
-- **Quality Assurance**: Internal review processes to ensure accuracy and compliance
 
 ---
 
@@ -111,4 +109,4 @@ We invite you to learn more about Roca Tax and how we can help you with your tax
 
 **Phone**: (585) 207-2221  
 **Email**: info@roca.tax  
-**Address**: Rochester, NY 
+**Address**: 2117 Bufffalo Rd, Rochester, NY 14624
