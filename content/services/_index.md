@@ -9,7 +9,7 @@ draft: false
 
 ## Comprehensive Tax & Accounting Solutions
 
-At Roca Tax, we provide a full range of professional tax preparation and accounting services designed to meet the needs of individuals and businesses. Our experienced team ensures accuracy, compliance, and peace of mind for all your financial matters.
+At Roca Tax, we provide a full range of professional tax preparation and accounting services designed to meet the needs of individuals and businesses. Our experienced team ensures accuracy, compliance, and peace of mind for all your important financial matters.
 
 ---
 
@@ -43,7 +43,6 @@ At Roca Tax, we provide a full range of professional tax preparation and account
 ### Business Accounting Services
 - **Bookkeeping**: Monthly financial record maintenance
 - **Financial Statements**: Balance sheets, income statements, cash flow
-- **Payroll Services**: Tax calculations and filings
 - **Sales Tax**: Collection and remittance assistance
 - **Business Planning**: Financial projections and budgeting
 
