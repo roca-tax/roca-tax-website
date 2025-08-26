@@ -11,7 +11,7 @@ draft: false
 
 Founded in Rochester, NY, Roca Tax has been serving the local community with professional tax preparation and accounting services for over a decade. We started with a simple mission: to provide reliable, accurate, and personalized tax services that our clients could trust.
 
-What began as a small tax preparation office has grown into a comprehensive accounting firm, but our commitment to personal service and attention to detail has never wavered. We believe that every client deserves the same level of care and expertise, regardless of the complexity of their tax situation.
+What began as a small tax preparation office has grown into a comprehensive accounting firm, but our commitment to personal service and attention to detail has never wavered. We believe that every client deserves the same level of care and expertise, regardless of the complexity or difficulty of their tax situation.
 
 ---
 
