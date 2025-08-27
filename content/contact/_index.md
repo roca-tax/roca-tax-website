@@ -22,7 +22,7 @@ Please click [the calendar](https://calendly.com/maria-roca-58oa/30min) to sched
 
 ### Location
 **Roca Tax**  
-Rochester, NY  
+2117 Buffalo Rd #115, Rochester, NY  
 United States
 
 ### Phone
@@ -74,9 +74,9 @@ We serve clients in Rochester, NY and surrounding areas, including:
 
 ### For Individuals
 - **Identification documents**: Driver's license, passport, social security card
-- **W-2 and 1099 forms**: All income forms from the year
-- **Previous year's returns**: For reference and comparison
-- **Deduction documents**: Receipts, invoices, expense records
+- **W-2 and 1099 tax forms**: All income forms from the year
+- **Previous year's return**: For reference and comparison
+- **1098 and any other documentation for tax deductions and credits**
 - **Banking information**: Account numbers for direct deposits
 
 ### For Businesses
@@ -85,21 +85,6 @@ We serve clients in Rochester, NY and surrounding areas, including:
 - **Expense documents**: Receipts, invoices, purchase records
 - **Business information**: EIN, formation documents
 - **Financial statements**: Previous year's balance sheets, income statements
-
----
-
-## Emergency Services
-
-### Urgent Situations
-We understand that urgent tax situations can arise. For emergencies:
-
-- **Filing extensions**: Quick assistance with filing deadlines
-- **IRS problems**: Immediate representation when needed
-- **Urgent consultations**: Priority responses to critical situations
-
-### Emergency Contact
-**Emergency line**: +1 585-207-2221 ext. 2  
-**Response**: Within 24 hours for urgent situations
 
 ---
 
@@ -121,8 +106,7 @@ We provide complete services in English and Spanish:
 We understand that each client has different financial needs:
 
 - **Full payment**: Discount for advance payment
-- **Installment plans**: Flexible payment options available
-- **Accepted methods**: Cash, checks, credit/debit cards
+- **Accepted methods**: Cash, checks, Paypal and Venmo
 - **Bank transfers**: For business clients
 
 ---
@@ -130,7 +114,7 @@ We understand that each client has different financial needs:
 ## Frequently Asked Questions
 
 ### How long does it take to prepare my taxes?
-Time varies by complexity, but most individual returns are completed in 1-2 weeks.
+Time varies by complexity, but most individual returns are completed within 2 weeks.
 
 ### Do you offer virtual services?
 Yes, we provide virtual consultations and remote services for existing clients.
@@ -146,13 +130,7 @@ Yes, we handle state tax returns for New York and other states.
 ## Visit Us
 
 ### Main Office
-Our office is conveniently located in Rochester, NY, with easy access and parking available.
-
-### Parking
-Free parking available for all clients.
-
-### Accessibility
-Our office is fully accessible for people with disabilities.
+Our office is conveniently located in Rochester, NY.
 
 ---
 
