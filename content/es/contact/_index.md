@@ -17,7 +17,7 @@ En Roca Tax, valoramos la comunicación abierta y estamos aquí para responder t
 
 ### Ubicación
 **Roca Tax**  
-Rochester, NY  
+2117 Buffalo Rd # 115 Rochester, NY  
 Estados Unidos
 
 ### Teléfono
@@ -83,21 +83,6 @@ Atendemos a clientes en Rochester, NY y las áreas circundantes, incluyendo:
 
 ---
 
-## Servicios de Emergencia
-
-### Situaciones Urgentes
-Entendemos que pueden surgir situaciones fiscales urgentes. Para emergencias:
-
-- **Extensiones de archivo**: Asistencia rápida con plazos de presentación
-- **Problemas con el IRS**: Representación inmediata cuando sea necesario
-- **Consultas urgentes**: Respuestas prioritarias a situaciones críticas
-
-### Contacto de Emergencia
-**Línea de emergencia**: +1 585-207-2221 ext. 2  
-**Respuesta**: Dentro de 24 horas para situaciones urgentes
-
----
-
 ## Idiomas Disponibles
 
 ### Servicio Bilingüe Completo
@@ -116,8 +101,7 @@ Proporcionamos servicios completos en inglés y español:
 Entendemos que cada cliente tiene diferentes necesidades financieras:
 
 - **Pago completo**: Descuento por pago anticipado
-- **Pagos a plazos**: Opciones de pago flexibles disponibles
-- **Métodos aceptados**: Efectivo, cheques, tarjetas de crédito/débito
+- **Métodos aceptados**: Efectivo, cheques, PayPal, Venmo
 - **Transferencias bancarias**: Para clientes empresariales
 
 ---
@@ -135,19 +119,6 @@ Ofrecemos representación completa para auditorías, apelaciones y resolución d
 
 ### ¿Pueden ayudarme con impuestos estatales?
 Sí, manejamos declaraciones de impuestos estatales para Nueva York y otros estados.
-
----
-
-## Visítenos
-
-### Oficina Principal
-Nuestra oficina está convenientemente ubicada en Rochester, NY, con fácil acceso y estacionamiento disponible.
-
-### Estacionamiento
-Estacionamiento gratuito disponible para todos los clientes.
-
-### Accesibilidad
-Nuestra oficina es completamente accesible para personas con discapacidades.
 
 ---
 
