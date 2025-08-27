@@ -17,10 +17,6 @@ At Roca Tax, we value open communication and are here to answer all your questio
 Please visit [this link](https://calendly.com/maria-roca-58oa/30min) to schedule a guarenteed time to meet with one of our accountants.
 **Your first 30-minutes are a free consultation!**
 
-<a href="https://calendly.com/maria-roca-58oa/30min" target="_blank">
-  <i class="fa-brands fa-calendly"></i> Schedule a Meeting
-</a>
-
 ## Contact Information
 
 ### Location
