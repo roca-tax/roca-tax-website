@@ -14,11 +14,10 @@ At Roca Tax, we value open communication and are here to answer all your questio
 
 ## Book an Appointment
 
-[Calendar Icon](https://img.icons8.com/ios-filled/50/000044/calendar--v1.png)
-
 Please visit [this Calendly link](https://calendly.com/maria-roca-58oa/30min) to schedule a remote session with one of our accountants.
 **Your first 30-minutes are a free consultation!**
 
+[![Calendar Icon](https://img.icons8.com/ios-filled/50/000044/calendar--v1.png)]
 
 ## Contact Information
 
