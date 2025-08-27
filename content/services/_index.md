@@ -43,7 +43,6 @@ At Roca Tax, we provide a full range of professional tax preparation and account
 ### Business Accounting Services
 - **Bookkeeping**: Monthly financial record maintenance
 - **Financial Statements**: Balance sheets, income statements, cash flow
-- **Sales Tax**: Collection and remittance assistance
 - **Business Planning**: Financial projections and budgeting
 
 ---
@@ -112,4 +111,4 @@ Ready to experience professional tax and accounting services? Contact Roca Tax t
 
 **Phone**: (585) 207-2221  
 **Email**: info@roca.tax  
-**Address**: Rochester, NY 
+**Address**: 2117 Buffalo Rd. #115, Rochester, NY 
