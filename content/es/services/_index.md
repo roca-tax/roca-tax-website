@@ -43,10 +43,7 @@ En Roca Tax, proporcionamos una gama completa de servicios profesionales de prep
 ### Servicios Contables Empresariales
 - **Contabilidad**: Mantenimiento mensual de registros financieros
 - **Estados Financieros**: Balances, estados de resultados, flujo de efectivo
-- **Servicios de Nómina**: Cálculos fiscales y presentaciones
-- **Impuestos sobre Ventas**: Asistencia en recaudación y remisión
 - **Planificación Empresarial**: Proyecciones financieras y presupuestos
-
 ---
 
 ## Planificación Fiscal y Consultoría
