@@ -11,13 +11,12 @@ draft: false
 
 At Roca Tax, we value open communication and are here to answer all your questions about our tax and accounting services. Don't hesitate to contact us in whatever way is most convenient for you.
 
-
 ## Book an Appointment
 
-Please visit [this Calendly link](https://calendly.com/maria-roca-58oa/30min) to schedule a remote session with one of our accountants.
-**Your first 30-minutes are a free consultation!**
+Please click [calendar](https://calendly.com/maria-roca-58oa/30min) to schedule a remote session with one of our accountants.
+**Your first 45-minutes are a free consultation!**
 
-[![Calendar Icon](https://img.icons8.com/ios-filled/50/000044/calendar--v1.png)]
+[![Calendar Icon](https://img.icons8.com/ios-filled/50/000044/calendar--v1.png)](https://calendly.com/maria-roca-58oa/30min)
 
 ## Contact Information
 
