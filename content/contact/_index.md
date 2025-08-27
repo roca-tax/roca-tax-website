@@ -11,7 +11,11 @@ draft: false
 
 At Roca Tax, we value open communication and are here to answer all your questions about our tax and accounting services. Don't hesitate to contact us in whatever way is most convenient for you.
 
----
+
+## Book and Appointment
+
+Please visit [this link](https://calendly.com/maria-roca-58oa/30min) to schedule a guarenteed time to meet with one of our accountants.
+**Your first 30-minutes are a free consultation!**
 
 ## Contact Information
 
