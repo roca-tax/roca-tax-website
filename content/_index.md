@@ -44,6 +44,10 @@ We offer a full range of tax and accounting services for individuals and busines
 
 Ready to experience the Roca Tax difference? Contact us today for a consultation and let us help you with your tax and accounting needs.
 
+[Click Here](https://calendly.com/maria-roca-58oa/30min) to schedule a free 30 minute remote consultation on Zoom!
+
+Or reach out to us via:
+
 **Phone**: (585) 207-2221  
 **Email**: info@roca.tax  
 **Address**: Rochester, NY 
