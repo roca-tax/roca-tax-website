@@ -77,17 +77,6 @@ En Roca Tax, creemos en devolver a la comunidad que nos ha apoyado. Participamos
 
 ---
 
-## Afiliaciones Profesionales
-
-Mantenemos afiliaciones activas con organizaciones profesionales para asegurar que nuestros servicios cumplan con los más altos estándares de la industria:
-
-- **Asociación Americana de Contadores Públicos Certificados (AICPA)**
-- **Sociedad de Contadores Públicos del Estado de Nueva York**
-- **Asociación Nacional de Preparadores de Impuestos (NATP)**
-- **Cámara de Comercio de Rochester**
-
----
-
 ## Nuestro Futuro
 
 Mientras continuamos creciendo, mantenemos nuestro compromiso con:
