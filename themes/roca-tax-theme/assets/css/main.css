@@ -1,15 +1,15 @@
 /* Roca Tax Theme - Professional Business Styling */
 
 :root {
-    --primary-color: #2c3e50;
-    --secondary-color: #3498db;
+    --primary-color: #0a4a95;
+    --secondary-color: #2563eb;
     --accent-color: #e74c3c;
     --success-color: #27ae60;
     --warning-color: #f39c12;
     --info-color: #17a2b8;
     --light-color: #ecf0f1;
-    --dark-color: #2c3e50;
-    --text-color: #2c3e50;
+    --dark-color: #0a4a95;
+    --text-color: #000000;
     --text-muted: #7f8c8d;
     --border-color: #bdc3c7;
     --shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
@@ -44,8 +44,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-primary:hover {
-    background-color: #34495e;
-    border-color: #34495e;
+    background-color: #1d4ed8;
+    border-color: #1d4ed8;
 }
 
 .btn-outline-primary {
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Hero Section with Stock Photo Background */
 .hero-section {
-    background: linear-gradient(135deg, rgba(44, 62, 80, 0.85) 0%, rgba(52, 152, 219, 0.85) 100%), 
+    background: linear-gradient(135deg, rgba(10, 74, 149, 0.85) 0%, rgba(37, 99, 235, 0.85) 100%), 
                 url('https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80') center/cover no-repeat;
     min-height: 100vh;
     display: flex;
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(44, 62, 80, 0.7);
+    background: rgba(10, 74, 149, 0.7);
     z-index: 1;
 }
 
@@ -143,22 +143,22 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Alternative Hero Backgrounds for Different Sections */
 .hero-section.services-hero {
-    background: linear-gradient(135deg, rgba(44, 62, 80, 0.85) 0%, rgba(52, 152, 219, 0.85) 100%), 
+    background: linear-gradient(135deg, rgba(10, 74, 149, 0.85) 0%, rgba(37, 99, 235, 0.85) 100%), 
                 url('https://images.unsplash.com/photo-1554224154-26032cdc9377?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80') center/cover no-repeat;
 }
 
 .hero-section.about-hero {
-    background: linear-gradient(135deg, rgba(44, 62, 80, 0.85) 0%, rgba(52, 152, 219, 0.85) 100%), 
+    background: linear-gradient(135deg, rgba(10, 74, 149, 0.85) 0%, rgba(37, 99, 235, 0.85) 100%), 
                 url('https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80') center/cover no-repeat;
 }
 
 .hero-section.contact-hero {
-    background: linear-gradient(135deg, rgba(44, 62, 80, 0.85) 0%, rgba(52, 152, 219, 0.85) 100%), 
+    background: linear-gradient(135deg, rgba(10, 74, 149, 0.85) 0%, rgba(37, 99, 235, 0.85) 100%), 
                 url('https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80') center/cover no-repeat;
 }
 
 .hero-section.blog-hero {
-    background: linear-gradient(135deg, rgba(44, 62, 80, 0.85) 0%, rgba(52, 152, 219, 0.85) 100%), 
+    background: linear-gradient(135deg, rgba(10, 74, 149, 0.85) 0%, rgba(37, 99, 235, 0.85) 100%), 
                 url('https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80') center/cover no-repeat;
 }
 
@@ -260,6 +260,14 @@ h1, h2, h3, h4, h5, h6 {
     transform: scale(1.1);
 }
 
+.service-card h5 {
+    color: #000000 !important;
+}
+
+.service-card p {
+    color: #000000 !important;
+}
+
 /* Enhanced Feature Icons */
 .feature-icon {
     margin-bottom: 1.5rem;
@@ -292,13 +300,23 @@ h1, h2, h3, h4, h5, h6 {
     right: 0;
     bottom: 0;
     background: url('https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80') center/cover no-repeat;
-    opacity: 0.1;
+    opacity: 0.2;
     z-index: 1;
 }
 
 .cta-section .container {
     position: relative;
     z-index: 2;
+}
+
+.cta-section h2 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    color: #ffffff !important;
+}
+
+.cta-section p {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+    color: #ffffff !important;
 }
 
 /* Footer */
@@ -554,7 +572,7 @@ footer .text-muted {
 /* Enhanced Focus States */
 .btn:focus,
 .nav-link:focus {
-    box-shadow: 0 0 0 0.2rem rgba(52, 152, 219, 0.25);
+    box-shadow: 0 0 0 0.2rem rgba(37, 99, 235, 0.25);
     outline: none;
 }
 
@@ -581,4 +599,33 @@ footer .text-muted {
 @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
+} 
+
+/* Custom icon sizes */
+.fa-3x-reduced {
+    font-size: 2.25em !important;
+}
+
+/* Hero Logo Styling */
+.hero-logo {
+    max-width: 300px;
+    height: auto;
+    opacity: 0.9;
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
+    transition: transform 0.3s ease;
+}
+
+.hero-logo:hover {
+    transform: scale(1.05);
+} 
+
+/* Logo alignment fixes */
+.navbar-brand img {
+    vertical-align: middle;
+    margin-top: -2px;
+}
+
+footer h5 img {
+    vertical-align: middle;
+    margin-top: -2px;
 } 

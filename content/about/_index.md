@@ -64,7 +64,7 @@ Rochester, NY, is more than just our location—it's our home. We chose to estab
 
 - **Strong Business Community**: Rochester has a diverse and growing business sector
 - **Educational Excellence**: Home to world-class universities and research institutions
-- **Cultural Diversity**: Rich cultural heritage that reflects our commitment to inclusive service
+- **Cultural Diversity**: Rich cultural heritage that brings diverse perspectives and experiences to our community
 - **Economic Opportunity**: Growing economy with opportunities for businesses and individuals
 - **Quality of Life**: Excellent schools, healthcare, and recreational opportunities
 

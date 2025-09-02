@@ -40,7 +40,7 @@
             </div>
             <div class="col-lg-6 text-center slide-up">
                 <div class="hero-image">
-                    <i class="fas fa-mountain display-1 text-light opacity-75"></i>
+                    <img src="/logo.png" alt="{{ .Site.Params.company_name }}" class="hero-logo">
                 </div>
             </div>
         </div>
@@ -67,13 +67,13 @@
                 {{ range $index, $service := .Site.Params.services_es }}
                 <div class="col-md-6 col-lg-4 scale-in" style="animation-delay: {{ mul $index 0.1 }}s;">
                     <div class="service-card h-100 p-4 bg-white rounded shadow-sm border-0">
-                        <div class="text-center mb-3">
-                            <i class="fas fa-gem text-primary fa-3x"></i>
-                        </div>
                         <h5 class="text-center mb-3">{{ $service }}</h5>
                         <p class="text-muted text-center">
                             Servicio profesional y confiable con atención al detalle
                         </p>
+                        <div class="text-center mt-3">
+                            <i class="fas fa-gem text-primary fa-3x-reduced"></i>
+                        </div>
                     </div>
                 </div>
                 {{ end }}
@@ -81,13 +81,13 @@
                 {{ range $index, $service := .Site.Params.services }}
                 <div class="col-md-6 col-lg-4 scale-in" style="animation-delay: {{ mul $index 0.1 }}s;">
                     <div class="service-card h-100 p-4 bg-white rounded shadow-sm border-0">
-                        <div class="text-center mb-3">
-                            <i class="fas fa-gem text-primary fa-3x"></i>
-                        </div>
                         <h5 class="text-center mb-3">{{ $service }}</h5>
                         <p class="text-muted text-center">
                             Professional and reliable service with attention to detail
                         </p>
+                        <div class="text-center mt-3">
+                            <i class="fas fa-gem text-primary fa-3x-reduced"></i>
+                        </div>
                     </div>
                 </div>
                 {{ end }}
@@ -203,8 +203,8 @@
             <p class="lead mb-4">
                 Contact us today for a consultation and let us help you with your tax and accounting needs.
             </p>
-            <a href="/contact/" class="btn btn-light btn-lg px-5">
-                <i class="fas fa-phone me-2"></i>Contact Us Today
+            <a href="{{ if eq .Site.Language.Lang "es" }}/es/contact/{{ else }}/en/contact/{{ end }}" class="btn btn-light btn-lg px-5">
+                <i class="fas fa-phone me-2"></i>Contact / Book an Online Appointment
             </a>
         {{ end }}
     </div>

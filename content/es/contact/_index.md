@@ -11,6 +11,13 @@ draft: false
 
 En Roca Tax, valoramos la comunicación abierta y estamos aquí para responder todas sus preguntas sobre nuestros servicios fiscales y contables. No dude en contactarnos de la manera que le resulte más conveniente.
 
+## Reservar una Cita
+
+Por favor haga clic en [el calendario](https://calendly.com/maria-roca-58oa/30min) para programar una sesión remota con uno de nuestros contadores.
+**¡Sus primeros 45 minutos son una consulta gratuita!**
+
+[![Icono de Calendario](https://img.icons8.com/ios-filled/50/000044/calendar--v1.png)](https://calendly.com/maria-roca-58oa/30min)
+
 ---
 
 ## Información de Contacto
