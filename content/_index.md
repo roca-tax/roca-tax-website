@@ -1,6 +1,6 @@
 ---
 title: "Roca Tax - Professional Tax Preparation Services"
-description: "Expert tax preparation and accounting services in Rochester, NY."
+description: "Expert bilingual tax preparation and accounting services in Rochester, NY."
 date: 2024-01-01
 draft: false
 ---
@@ -9,7 +9,7 @@ draft: false
 
 ## Professional Tax Preparation & Accounting Services in Rochester, NY
 
-At Roca Tax, we understand that tax preparation and accounting can be complex and overwhelming. That's why we're committed to providing professional, reliable, and personalized service to help you navigate your financial responsibilities with confidence.
+At Roca Tax, we understand that tax preparation and accounting can be complex and overwhelming. That's why we're committed to providing professional, reliable, and personalized service in English and in Spanish to help you navigate your financial responsibilities with confidence.
 
 ## Our Commitment to Excellence
 
