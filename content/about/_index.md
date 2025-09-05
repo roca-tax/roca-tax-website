@@ -9,9 +9,9 @@ draft: false
 
 ## Our Story
 
-Founded in Rochester, NY, Roca Tax has a simple mission: to provide reliable, accurate, and personalized tax services that our clients can trust.
+Founded in Rochester, NY, Roca Tax has a simple mission: to provide reliable, accurate, and personalized tax services in English and in Spanish.
 
-We are commited to personal service and believe that every client deserves the same level of care and expertise, regardless of the complexity or difficulty of their tax situation.
+We are commited to personal service and believe that every client deserves the same level of care and expertise.
 
 ---
 
