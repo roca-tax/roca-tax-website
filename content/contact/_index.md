@@ -66,7 +66,7 @@ We serve clients in Rochester, NY and surrounding areas, including:
 - **Rochester**: Main city and metropolitan area
 - **Monroe County**: All municipalities and towns
 - **Neighboring counties**: Wayne, Ontario, Livingston, Genesee
-- **Remote services**: Virtual consultations available for existing clients
+- **Remote services**: Virtual consultations available 
 
 ---
 
