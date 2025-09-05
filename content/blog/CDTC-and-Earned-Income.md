@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Child Tax Credit: A Guide for Families"  
+title: "Who Can Claim the Child Tax Credit: A Guide for Families"  
 date: 2025-08-28  
 draft: false  
 description: "Learn how the Child Tax Credit can reduce your tax liability and provide financial support for families with children. Understand eligibility requirements, income thresholds, and tips for claiming this valuable tax credit."  
