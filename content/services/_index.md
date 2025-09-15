@@ -1,6 +1,6 @@
 ---
 title: "Our Services - Roca Tax"
-description: "Comprehensive tax preparation and accounting services for individuals and businesses in Rochester, NY."
+description: "Bilingual tax preparation and accounting services for individuals and businesses in Rochester, NY."
 date: 2024-01-01
 draft: false
 ---
