@@ -47,7 +47,7 @@ At Roca Tax, we provide a full range of professional tax preparation and account
 
 ---
 
-## Tax Planning & Consulting
+## Tax Planning & Consulting In English and Spanish 
 
 ### Strategic Tax Planning
 - **Year-Round Planning**: Proactive tax strategies
@@ -64,7 +64,7 @@ At Roca Tax, we provide a full range of professional tax preparation and account
 
 ---
 
-## IRS Problem Resolution
+## IRS Problem Resolution in English and Spanish
 
 ### Tax Problem Solutions
 - **Audit Representation**: Professional support during IRS audits
@@ -77,7 +77,7 @@ At Roca Tax, we provide a full range of professional tax preparation and account
 
 ## Additional Services
 
-### Financial Services
+### Bilingual Financial Services
 - **Financial Statement Preparation**: Professional financial reporting
 - **Budgeting & Forecasting**: Financial planning and projections
 - **Cash Flow Management**: Optimizing business cash flow
