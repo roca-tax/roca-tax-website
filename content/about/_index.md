@@ -9,7 +9,7 @@ draft: false
 
 ## Our Story
 
-Founded in Rochester, NY, Roca Tax has a simple mission: to provide reliable, accurate, and personalized tax services in English and in Spanish.
+Founded in Rochester, NY, Roca Tax has a simple mission: to provide reliable, accurate, and bilingual tax services.
 
 We are commited to personal service and believe that every client deserves the same level of care and expertise.
 
@@ -17,7 +17,7 @@ We are commited to personal service and believe that every client deserves the s
 
 ## Our Mission
 
-At Roca Tax, our mission is to provide exceptional tax preparation and accounting services that gives our client the peace of mind that they are compliant with regulations. We also empower our clients to make informed financial decisions. We strive to:
+At Roca Tax, our mission is to provide exceptional bilingual tax preparation and accounting services that gives our client the peace of mind that they are compliant with regulations. We also empower our clients to make informed financial decisions. We strive to:
 
 - **Deliver Accuracy**: Ensure every return is prepared with precision and attention to detail
 - **Provide Education**: Help clients understand their tax situation and available options
@@ -29,7 +29,7 @@ At Roca Tax, our mission is to provide exceptional tax preparation and accountin
 ## Our Values
 
 ### Excellence
-We maintain the highest standards of professional excellence in everything we do, from tax preparation to client communication.
+We maintain the highest standards of professional excellence in everything we do, from tax preparation to bilingual client communication.
 
 ### Integrity
 Honesty and ethical behavior are the foundation of our business relationships. We always act in our clients' best interests.
@@ -68,27 +68,6 @@ Rochester, NY, is more than just our location—it's our home. We chose to estab
 - **Economic Opportunity**: Growing economy with opportunities for businesses and individuals
 - **Quality of Life**: Excellent schools, healthcare, and recreational opportunities
 
----
-
-## Our Commitment to the Community
-
-### Local Partnerships
-We actively partner with local businesses, organizations, and community groups to support economic development and growth.
-
-### Educational Outreach
-We provide educational seminars and workshops on tax planning and financial literacy to help our community make informed financial decisions.
-
-### Charitable Giving
-We support local charities and non-profit organizations that make Rochester a better place to live and work.
-
----
-
-## Professional Affiliations
-
-Our team maintains active memberships in professional organizations and stays current with industry best practices:
-
-- **Tax Preparation Certifications**: Licensed tax preparers with ongoing education
-- **Ethical Standards**: Adherence to professional codes of conduct and ethics
 
 ---
 
