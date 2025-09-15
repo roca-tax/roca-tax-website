@@ -56,7 +56,7 @@
                     <h2 class="display-5 fw-bold text-primary mb-3">Nuestros Servicios</h2>
                     <p class="lead text-muted">Soluciones integrales de impuestos y contabilidad para individuos y negocios</p>
                 {{ else }}
-                    <h2 class="display-5 fw-bold text-primary mb-3">Our Services</h2>
+                    <h2 class="display-5 fw-bold text-primary mb-3">Our Bilingual Services</h2>
                     <p class="lead text-muted">Bilingual tax and accounting solutions for individuals and businesses</p>
                 {{ end }}
             </div>
@@ -69,7 +69,7 @@
                     <div class="service-card h-100 p-4 bg-white rounded shadow-sm border-0">
                         <h5 class="text-center mb-3">{{ $service }}</h5>
                         <p class="text-muted text-center">
-                            Servicio profesional y confiable con atención al detalle
+                            Servicio profesional y de confianza con atención al detalle
                         </p>
                         <div class="text-center mt-3">
                             <i class="fas fa-gem text-primary fa-3x-reduced"></i>
@@ -83,7 +83,7 @@
                     <div class="service-card h-100 p-4 bg-white rounded shadow-sm border-0">
                         <h5 class="text-center mb-3">{{ $service }}</h5>
                         <p class="text-muted text-center">
-                            Professional and reliable service with attention to detail
+                            Professional and reliable bilingual service with attention to detail
                         </p>
                         <div class="text-center mt-3">
                             <i class="fas fa-gem text-primary fa-3x-reduced"></i>
@@ -115,7 +115,7 @@
             <div class="col-lg-8 mx-auto fade-in">
                 {{ if eq .Site.Language.Lang "es" }}
                     <h2 class="display-5 fw-bold text-primary mb-3">¿Por Qué Elegir Roca Tax?</h2>
-                    <p class="lead text-muted">Experiencia confiable, servicio bilingüe y atención personalizada</p>
+                    <p class="lead text-muted">Experiencia de confianza, servicio bilingüe y atención personalizada</p>
                 {{ else }}
                     <h2 class="display-5 fw-bold text-primary mb-3">Why Choose Roca Tax?</h2>
                     <p class="lead text-muted">Trusted expertise, bilingual service, and personalized attention</p>
@@ -131,10 +131,10 @@
                     </div>
                     {{ if eq .Site.Language.Lang "es" }}
                         <h5>Experiencia Confiable</h5>
-                        <p class="text-muted">Años de experiencia en preparación de impuestos y contabilidad</p>
+                        <p class="text-muted">Experiencia en preparación de impuestos y contabilidad</p>
                     {{ else }}
                         <h5>Trusted Expertise</h5>
-                        <p class="text-muted">Years of experience in tax preparation and accounting</p>
+                        <p class="text-muted">Experience in tax preparation and accounting</p>
                     {{ end }}
                 </div>
             </div>
@@ -201,7 +201,7 @@
         {{ else }}
             <h2 class="display-5 fw-bold mb-4">Ready to Get Started?</h2>
             <p class="lead mb-4">
-                Contact us today for a consultation and let us help you with your tax and accounting needs.
+                Contact us today for a consultation and let us help you in your language with your tax and accounting needs.
             </p>
             <a href="{{ if eq .Site.Language.Lang "es" }}/es/contact/{{ else }}/en/contact/{{ end }}" class="btn btn-light btn-lg px-5">
                 <i class="fas fa-phone me-2"></i>Contact / Book an Online Appointment
