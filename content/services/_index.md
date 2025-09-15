@@ -47,7 +47,7 @@ At Roca Tax, we provide a full range of professional tax preparation and account
 
 ---
 
-## Tax Planning & Consulting In English and Spanish 
+## Tax Planning In English and Spanish 
 
 ### Strategic Tax Planning
 - **Year-Round Planning**: Proactive tax strategies
@@ -55,12 +55,6 @@ At Roca Tax, we provide a full range of professional tax preparation and account
 - **Deduction Maximization**: Identifying all available deductions
 - **Tax Law Updates**: Staying current with changes
 - **Multi-Year Planning**: Long-term tax optimization
-
-### Consulting Services
-- **Business Formation**: Entity selection and setup
-- **Financial Analysis**: Business performance evaluation
-- **Growth Planning**: Expansion and investment strategies
-- **Succession Planning**: Business transition strategies
 
 ---
 
