@@ -43,7 +43,6 @@ At Roca Tax, we provide a full range of professional tax preparation and account
 ### Business Accounting Services
 - **Bookkeeping**: Monthly financial record maintenance
 - **Financial Statements**: Balance sheets, income statements, cash flow
-- **Business Planning**: Financial projections and budgeting
 
 ---
 
