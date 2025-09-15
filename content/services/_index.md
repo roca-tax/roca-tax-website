@@ -13,7 +13,7 @@ At Roca Tax, we provide a full range of professional tax preparation and account
 
 ---
 
-## Individual Tax Services
+## Individual Bilingual Tax Services
 
 ### Personal Tax Preparation
 - **1040 Individual Tax Returns**: Complete preparation and filing
