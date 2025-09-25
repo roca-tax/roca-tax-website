@@ -1,5 +1,5 @@
 ---
-title: "Sobre Nosotros - Roca Tax"
+title: "Sobre Nosotros"
 description: "Conozca la historia, misión y valores de Roca Tax."
 date: 2024-01-01
 draft: false
