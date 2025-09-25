@@ -1,5 +1,5 @@
 ---
-title: "About Us - Roca Tax"
+title: "About Us"
 description: "Learn about Roca Tax, our team, and our commitment to providing bilingual tax preparation and accounting services in Rochester, NY."
 date: 2024-01-01
 draft: false
