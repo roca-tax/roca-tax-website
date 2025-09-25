@@ -1,5 +1,5 @@
 ---
-title: "Contáctenos - Roca Tax"
+title: "Contáctenos"
 description: "Información de contacto, horarios de atención y detalles de consulta para Roca Tax."
 date: 2024-01-01
 draft: false
