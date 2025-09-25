@@ -48,7 +48,7 @@ We believe professional tax services should be accessible to everyone, which is 
 ## Our Team
 
 ### Experienced Professionals
-Our team consists of licensed tax professionals that stay current with continuing education requirements and regularly attend seminars and training sessions to maintain expertise.
+Our team consists of licensed tax professionals enrolled to practice before the IRS, that stay current with continuing education requirements and regularly attend seminars and training sessions to maintain expertise.
 
 ### Bilingual Expertise
 Understanding the importance of clear communication, our team provides professional service in both English and Spanish. This ensures that all clients receive the same high-quality service regardless of their preferred language.
