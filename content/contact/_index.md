@@ -54,19 +54,7 @@ We offer a free initial consultation for all new clients. During this session:
 5. **Consultation**: Detailed meeting to plan your tax strategy
 
 ---
-
-## Service Areas
-
-We serve clients in Rochester, NY and surrounding areas, including:
-
-- **Rochester**: Main city and metropolitan area
-- **Monroe County**: All municipalities and towns
-- **Neighboring counties**: Wayne, Ontario, Livingston, Genesee
-- **Remote services**: Virtual consultations available 
-
----
-
-## What to Bring to Your Appointment
+## What to Have for Your Appointment
 
 ### For Individuals
 - **Identification documents**: Driver's license, passport, social security card
@@ -123,12 +111,6 @@ Yes, we handle state tax returns for New York and other states.
 
 ---
 
-## Visit Us
-
-### Main Office
-Our office is conveniently located in Rochester, NY.
-
----
 
 ## Contact Us Today
 
