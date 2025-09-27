@@ -1,6 +1,6 @@
 ---
 title: "Nuestros Servicios "
-description: "Servicios integrales de preparación de impuestos y contabilidad para individuos y empresas en Rochester, NY."
+description: "Servicios integrales de preparación de impuestos y contabilidad para individuos y empresas"
 date: 2024-01-01
 draft: false
 ---
@@ -95,8 +95,6 @@ En Roca Tax, proporcionamos una gama completa de servicios profesionales de prep
 **Conocimiento Experto**: Nuestro equipo se mantiene al día con las últimas leyes y regulaciones fiscales.
 
 **Atención Personalizada**: Nos tomamos el tiempo para entender su situación única y necesidades.
-
-**Experiencia Local**: Conocimiento específico de las leyes fiscales de Nueva York y Rochester.
 
 **Servicio Confiable**: Cumplimos con los plazos y proporcionamos tiempos de respuesta rápidos.
 
