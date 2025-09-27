@@ -50,7 +50,7 @@ We offer a free initial consultation for all new clients. During this session:
 1. **Initial contact**: Call us or send us an email
 2. **Preliminary assessment**: Briefly discuss your needs
 3. **Scheduling**: Book an appointment that fits your schedule
-4. **Preparation**: Provide you with a list of documents to bring
+4. **Preparation**: Provide you with a list of documents to obtain
 5. **Consultation**: Detailed meeting to plan your tax strategy
 
 ---
