@@ -9,7 +9,7 @@ draft: false
 
 ## Our Story
 
-Founded in Rochester, NY, Roca Tax has a simple mission: to provide reliable, accurate, and bilingual tax services.
+Roca Tax has a simple mission: to provide reliable, accurate, and tax preparation ervices.
 
 We are commited to personal service and believe that every client deserves the same level of care and expertise.
 
@@ -37,9 +37,6 @@ Honesty and ethical behavior are the foundation of our business relationships. W
 ### Innovation
 We stay current with the latest tax laws, technology, and best practices to provide the most effective solutions.
 
-### Community
-We're proud to be part of the Rochester community and committed to its growth and success.
-
 ### Accessibility
 We believe professional tax services should be accessible to everyone, which is why we offer bilingual support and flexible service options.
 
@@ -53,9 +50,6 @@ Our team consists of licensed tax professionals enrolled to practice before the 
 ### Bilingual Expertise
 Understanding the importance of clear communication, our team provides professional service in both English and Spanish. This ensures that all clients receive the same high-quality service regardless of their preferred language.
 
-### Local Knowledge
-We understand the local business environment, tax requirements, and economic landscape. This local expertise allows us to provide relevant advice and solutions for our community.
-
 ---
 
 ## Looking Forward
@@ -64,7 +58,6 @@ As we look to the future, Roca Tax remains committed to:
 
 - **Expanding Services**: Adding new services to meet evolving client needs
 - **Technology Integration**: Leveraging technology to improve efficiency and client experience
-- **Community Growth**: Supporting Rochester's continued economic development
 - **Professional Excellence**: Maintaining the highest standards of service and expertise
 
 ---
@@ -75,4 +68,3 @@ We invite you to learn more about Roca Tax and how we can help you with your tax
 
 **Phone**: (585) 207-2221  
 **Email**: info@roca.tax  
-**Address**: 2117 Bufffalo Rd, Rochester, NY 14624
