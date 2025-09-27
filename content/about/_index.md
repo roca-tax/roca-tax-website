@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-description: "Learn about Roca Tax, our team, and our commitment to providing bilingual tax preparation and accounting services in Rochester, NY."
+description: "Learn about Roca Tax, our team, and our commitment to providing bilingual tax preparation and accounting services"
 date: 2024-01-01
 draft: false
 ---
@@ -55,19 +55,6 @@ Understanding the importance of clear communication, our team provides professio
 
 ### Local Knowledge
 We understand the local business environment, tax requirements, and economic landscape. This local expertise allows us to provide relevant advice and solutions for our community.
-
----
-
-## Why Rochester?
-
-Rochester, NY, is more than just our location—it's our home. We chose to establish Roca Tax here because:
-
-- **Strong Business Community**: Rochester has a diverse and growing business sector
-- **Educational Excellence**: Home to world-class universities and research institutions
-- **Cultural Diversity**: Rich cultural heritage that brings diverse perspectives and experiences to our community
-- **Economic Opportunity**: Growing economy with opportunities for businesses and individuals
-- **Quality of Life**: Excellent schools, healthcare, and recreational opportunities
-
 
 ---
 
