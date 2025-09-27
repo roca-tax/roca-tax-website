@@ -20,10 +20,6 @@ Please click [the calendar](https://calendly.com/maria-roca-58oa/30min) to sched
 
 ## Contact Information
 
-### Location
-**Roca Tax**  
-2117 Buffalo Rd #115, Rochester, NY  
-United States
 
 ### Phone
 **+1 585-207-2221**  
