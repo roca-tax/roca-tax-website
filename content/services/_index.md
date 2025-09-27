@@ -92,8 +92,6 @@ At Roca Tax, we provide a full range of professional tax preparation and account
 
 **Bilingual Service**: Professional assistance available in both English and Spanish.
 
-**Local Expertise**: Deep understanding of Rochester business environment and tax requirements.
-
 **Proven Results**: Track record of successful tax preparation and problem resolution.
 
 ---
@@ -104,4 +102,3 @@ Ready to experience professional tax and accounting services? Contact Roca Tax t
 
 **Phone**: (585) 207-2221  
 **Email**: info@roca.tax  
-**Address**: 2117 Buffalo Rd. #115, Rochester, NY 
