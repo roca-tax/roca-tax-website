@@ -1,29 +1,8 @@
 {{ define "main" }}
-{{ $pageType := "" }}
-{{ if eq .Section "about" }}{{ $pageType = "about-hero" }}{{ end }}
-{{ if eq .Section "contact" }}{{ $pageType = "contact-hero" }}{{ end }}
-
-<div class="page-header hero-section {{ $pageType }} text-white py-5">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 mx-auto text-center">
-                <h1 class="display-4 fw-bold mb-3">{{ .Title }}</h1>
-                {{ if .Description }}
-                <p class="lead">{{ .Description }}</p>
-                {{ end }}
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="page-content py-5">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 mx-auto">
-                <div class="content-wrapper">
-                    {{ .Content }}
-                </div>
-            </div>
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-7 text-center">
+            {{ .Content }}
         </div>
     </div>
 </div>
